@@ -1,0 +1,13 @@
+C:\Users\arnes\Documents\Thomas More\Windows Server\Project\bin\Debug\netcoreapp3.1\Project.exe
+C:\Users\arnes\Documents\Thomas More\Windows Server\Project\bin\Debug\netcoreapp3.1\Project.deps.json
+C:\Users\arnes\Documents\Thomas More\Windows Server\Project\bin\Debug\netcoreapp3.1\Project.runtimeconfig.json
+C:\Users\arnes\Documents\Thomas More\Windows Server\Project\bin\Debug\netcoreapp3.1\Project.runtimeconfig.dev.json
+C:\Users\arnes\Documents\Thomas More\Windows Server\Project\bin\Debug\netcoreapp3.1\Project.dll
+C:\Users\arnes\Documents\Thomas More\Windows Server\Project\bin\Debug\netcoreapp3.1\Project.pdb
+C:\Users\arnes\Documents\Thomas More\Windows Server\Project\obj\Debug\netcoreapp3.1\Project.csprojAssemblyReference.cache
+C:\Users\arnes\Documents\Thomas More\Windows Server\Project\obj\Debug\netcoreapp3.1\Project.csproj.CoreCompileInputs.cache
+C:\Users\arnes\Documents\Thomas More\Windows Server\Project\obj\Debug\netcoreapp3.1\Project.AssemblyInfoInputs.cache
+C:\Users\arnes\Documents\Thomas More\Windows Server\Project\obj\Debug\netcoreapp3.1\Project.AssemblyInfo.cs
+C:\Users\arnes\Documents\Thomas More\Windows Server\Project\obj\Debug\netcoreapp3.1\Project.dll
+C:\Users\arnes\Documents\Thomas More\Windows Server\Project\obj\Debug\netcoreapp3.1\Project.pdb
+C:\Users\arnes\Documents\Thomas More\Windows Server\Project\obj\Debug\netcoreapp3.1\Project.genruntimeconfig.cache
