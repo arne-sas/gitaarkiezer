@@ -165,6 +165,7 @@ namespace Project
                     break;
             }
             Console.WriteLine("Je favoriete gitaar: " + gitaar);
+            Console.ReadLine();
 
 
             //dotnet publish -r win-x64 -c Release /p:PublishSingleFile=true
