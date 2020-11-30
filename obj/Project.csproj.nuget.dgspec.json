@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\arnes\\Documents\\Thomas More\\Windows Server\\Project\\Project.csproj": {}
+    "C:\\Users\\arnes\\Documents\\Thomas More\\Windows Server\\gitaarkiezer\\Project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\arnes\\Documents\\Thomas More\\Windows Server\\Project\\Project.csproj": {
+    "C:\\Users\\arnes\\Documents\\Thomas More\\Windows Server\\gitaarkiezer\\Project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\arnes\\Documents\\Thomas More\\Windows Server\\Project\\Project.csproj",
+        "projectUniqueName": "C:\\Users\\arnes\\Documents\\Thomas More\\Windows Server\\gitaarkiezer\\Project.csproj",
         "projectName": "Project",
-        "projectPath": "C:\\Users\\arnes\\Documents\\Thomas More\\Windows Server\\Project\\Project.csproj",
+        "projectPath": "C:\\Users\\arnes\\Documents\\Thomas More\\Windows Server\\gitaarkiezer\\Project.csproj",
         "packagesPath": "C:\\Users\\arnes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\arnes\\Documents\\Thomas More\\Windows Server\\Project\\obj\\",
+        "outputPath": "C:\\Users\\arnes\\Documents\\Thomas More\\Windows Server\\gitaarkiezer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -51,12 +51,31 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
+              "version": "[3.1.3, 3.1.3]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.win-x64",
+              "version": "[3.1.3, 3.1.3]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
+              "version": "[3.1.3, 3.1.3]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
         }
       }
     }
