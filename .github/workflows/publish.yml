@@ -14,9 +14,12 @@ jobs:
         uses: actions/setup-dotnet@v1
         with:
           dotnet-version: 3.1.101
+      - name: create folder
+        run: mdir app
       - name: Build
         run: dotnet publish -o app -r win-x64 -p:PublishSingleFile=true --self-contained true
-      - uses: actions/upload-artifact@v2
+      - name: upload artifact
+        uses: actions/upload-artifact@v2
         with:
-          name: my-artifact
-          path: /app/Project.exe
+          name: will it work
+          path: app
