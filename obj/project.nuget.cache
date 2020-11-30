@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZZwRRLmzQTdG7OcbaDB6PSspYv7GnHEy0D+bUI82fdkXBTo9271d++oo/+i5JvgMaykO0xUZBAWbRvIlS03bmg==",
+  "dgSpecHash": "qRgHXBJy5u5ZoqrHfSn9M/6WW0Ap7yNZ4ZXLorMCBe5fBVAw7Gxazev+3Xj9I3jseugf+yrifqKWdTtWylBypw==",
   "success": true,
   "projectFilePath": "C:\\Users\\arnes\\Documents\\Thomas More\\Windows Server\\gitaarkiezer\\Project.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\arnes\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.3\\microsoft.netcore.app.runtime.win-x64.3.1.3.nupkg.sha512",
-    "C:\\Users\\arnes\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.3\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.3.nupkg.sha512",
-    "C:\\Users\\arnes\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.3\\microsoft.aspnetcore.app.runtime.win-x64.3.1.3.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
