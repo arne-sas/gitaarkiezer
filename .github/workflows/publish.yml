@@ -17,7 +17,7 @@ jobs:
       - name: create folder
         run: mkdir app
       - name: Build
-        run: dotnet publish -o app -r win-x64 -p:PublishSingleFile=true --self-contained true
+        run: dotnet publish -o app -r win-x64 -p:PublishTrimmed=true --self-contained true
       - name: upload artifact
         uses: actions/upload-artifact@v2
         with:
